@@ -6,6 +6,7 @@ This project involves building a Sales Forecasting system using time series anal
 
 ## 📁 Folder Structure
 
+```
 Data-science-project/
 └── Sales-Forecasting/
 ├── data/ # Dataset files (e.g., train.csv)
@@ -14,6 +15,9 @@ Data-science-project/
 ├── notebook/ # Jupyter Notebook (Sales_Forecasting.ipynb)
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
+
+```
+
 ## ✅ Installation Steps:
 - 🔽 Clone the Repository:  
   `git clone https://github.com/Neha-9008/Data-science-project.git`
