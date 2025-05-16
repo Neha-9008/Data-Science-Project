@@ -14,37 +14,36 @@ Data-science-project/
 ├── notebook/ # Jupyter Notebook (Sales_Forecasting.ipynb)
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
+## ✅ Installation Steps:
+- 🔽 Clone the Repository:  
+  `git clone https://github.com/Neha-9008/Data-science-project.git`
 
+- 📂 Navigate to Project Directory:  
+  `cd Data-science-project/Sales-Forecasting`
 
+- 🐍 Create a Virtual Environment:  
+  `conda create --name sales_forecast_env python=3.10`  
+  `conda activate sales_forecast_env`
 
-
-
-## ✅ Installation_steps:
-  - "🔽 Clone the Repository:"
-  - "git clone https://github.com/Neha-9008/Data-science-project.git"
-  - "📂 Navigate to Project Directory:"
-  - "cd Data-science-project/Sales-Forecasting"
-  - "🐍 Create a Virtual Environment:"
-  - "conda create --name sales_forecast_env python=3.10"
-  - "conda activate sales_forecast_env"
-  - "📦 Install Dependencies:"
-  - "pip install -r requirements.txt"
+- 📦 Install Dependencies:  
+  `pip install -r requirements.txt`
 
 ## 🚀 Usage
-  - "📓 Run the Jupyter Notebook:"
-  - "jupyter notebook notebook/Sales_Forecasting.ipynb"
-  - "🖥️ Run the Streamlit App:"
-  - "cd app"
-  - "streamlit run dashboard.py"
+- 📓 Run the Jupyter Notebook:  
+  `jupyter notebook notebook/Sales_Forecasting.ipynb`
+
+- 🖥️ Run the Streamlit App:  
+  `cd app`  
+  `streamlit run dashboard.py`
 
 ## 🛠️ Dependencies
-  - "🐍 Python 3.10"
-  - "📊 pandas"
-  - "🔢 numpy"
-  - "📉 matplotlib"
-  - "🎨 seaborn"
-  - "📈 statsmodels"
-  - "🌐 streamlit"
+- 🐍 Python 3.10  
+- 📊 pandas  
+- 🔢 numpy  
+- 📉 matplotlib  
+- 🎨 seaborn  
+- 📈 statsmodels  
+- 🌐 streamlit
 
 ## 📜 License
 This project is licensed under the MIT License.
