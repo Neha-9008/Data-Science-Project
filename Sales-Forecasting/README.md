@@ -6,15 +6,14 @@ This project involves building a Sales Forecasting system using time series anal
 
 ## 📁 Folder Structure
 
-Data-science-project/
-└── Sales-Forecasting/
-├── data/ # Dataset files (e.g., train.csv)
-├── models/ # Model files (e.g., arima_model.pkl)
-├── app/ # Streamlit application files
-├── notebook/ # Jupyter Notebook (Sales_Forecasting.ipynb)
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
-
+ Data-science-project/
+  └── Sales-Forecasting/
+      ├── data/              # Dataset files (e.g., train.csv)
+      ├── models/            # Model files (e.g., arima_model.pkl)
+      ├── app/               # Streamlit application files
+      ├── notebook/          # Jupyter Notebook (Sales_Forecasting.ipynb)
+      ├── requirements.txt   # Dependencies
+      └── README.md          # Project documentation
 
 ## ✅ Installation_steps:
   - "🔽 Clone the Repository:"
@@ -27,14 +26,14 @@ Data-science-project/
   - "📦 Install Dependencies:"
   - "pip install -r requirements.txt"
 
-#🚀 Usage
+## 🚀 Usage
   - "📓 Run the Jupyter Notebook:"
   - "jupyter notebook notebook/Sales_Forecasting.ipynb"
   - "🖥️ Run the Streamlit App:"
   - "cd app"
   - "streamlit run dashboard.py"
 
-#🛠️ Dependencies
+## 🛠️ Dependencies
   - "🐍 Python 3.10"
   - "📊 pandas"
   - "🔢 numpy"
@@ -43,5 +42,5 @@ Data-science-project/
   - "📈 statsmodels"
   - "🌐 streamlit"
 
-#📜 License
+## 📜 License
 This project is licensed under the MIT License.
