@@ -6,14 +6,14 @@ This project involves building a Sales Forecasting system using time series anal
 
 ## 📁 Folder Structure
 
- Data-science-project/
-  └── Sales-Forecasting/
-      ├── data/              # Dataset files (e.g., train.csv)
-      ├── models/            # Model files (e.g., arima_model.pkl)
-      ├── app/               # Streamlit application files
-      ├── notebook/          # Jupyter Notebook (Sales_Forecasting.ipynb)
-      ├── requirements.txt   # Dependencies
-      └── README.md          # Project documentation
+Data-science-project/
+└── Sales-Forecasting/
+├── data/ # Dataset files (e.g., train.csv)
+├── models/ # Model files (e.g., arima_model.pkl)
+├── app/ # Streamlit application files
+├── notebook/ # Jupyter Notebook (Sales_Forecasting.ipynb)
+├── requirements.txt # Dependencies
+└── README.md # Project documentation
 
 ## ✅ Installation_steps:
   - "🔽 Clone the Repository:"
